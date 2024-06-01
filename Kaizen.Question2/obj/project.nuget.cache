@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrTbH0sdp0TIVY1cJKIxqajKDHI9ILLztnA7XR55HpnLaR3xmaJ+X7dN5Njp5bJcHe3BIl3+MhpdSgklYy0gWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shanks\\source\\repos\\Kaizen\\Kaizen.Question2\\Kaizen.Question2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shanks\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

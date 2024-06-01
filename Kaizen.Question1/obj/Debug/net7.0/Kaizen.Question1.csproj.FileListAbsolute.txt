@@ -1,0 +1,15 @@
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\bin\Debug\net7.0\Kaizen.Question1.exe
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\bin\Debug\net7.0\Kaizen.Question1.deps.json
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\bin\Debug\net7.0\Kaizen.Question1.runtimeconfig.json
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\bin\Debug\net7.0\Kaizen.Question1.dll
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\bin\Debug\net7.0\Kaizen.Question1.pdb
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\Kaizen.Question1.csproj.AssemblyReference.cache
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\Kaizen.Question1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\Kaizen.Question1.AssemblyInfoInputs.cache
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\Kaizen.Question1.AssemblyInfo.cs
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\Kaizen.Question1.csproj.CoreCompileInputs.cache
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\Kaizen.Question1.dll
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\refint\Kaizen.Question1.dll
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\Kaizen.Question1.pdb
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\Kaizen.Question1.genruntimeconfig.cache
+C:\Users\Shanks\source\repos\Kaizen\Kaizen.Question1\obj\Debug\net7.0\ref\Kaizen.Question1.dll
